@@ -34,4 +34,5 @@ export default IconAsset = {
   userIcon: require('../../images/user.png'),
   lockIcon: require('../../images/lock.png'),
   emptyList: require('../../images/empty.jpg'),
+  ooo: require('../../images/empty.jpg'),
 };
