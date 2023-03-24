@@ -1,0 +1,15 @@
+export default Colors = {
+  //   back: '#f7f8fa',
+  ThemeColor: '#092a9e',
+  lightOrange: '#faede6',
+  white: '#ffffff',
+  black: '#000000',
+  gray: '#adacac',
+  gray1: '#8f8c8c',
+  gray2: '#e3e3e3',
+  blue: '#93cafa',
+  red: '#f71500',
+  lightBlue: '#5b6bf0',
+  darkGray: '#87878c',
+  backgroundColorGray: '#f5f2f2',
+};

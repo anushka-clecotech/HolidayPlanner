@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489890746105",
+    "project_id": "holiday-planner-52250",
+    "storage_bucket": "holiday-planner-52250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489890746105:android:8d59180632bb41e383dc28",
+        "android_client_info": {
+          "package_name": "com.holidayplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489890746105-kdshfqse7mbfc8opkj2le679cc6i8734.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Qt59AsE5HVpXP_YF6tVzAdyZkdnskoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489890746105-kdshfqse7mbfc8opkj2le679cc6i8734.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
